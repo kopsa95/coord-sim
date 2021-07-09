@@ -279,8 +279,3 @@ nose2
 ## Acknowledgement
 
 This project has received funding from German Federal Ministry of Education and Research ([BMBF](https://www.bmbf.de/)) through Software Campus grant 01IS17046 ([RealVNF](https://realvnf.github.io/)).
-
-<p align="center">
-  <img src="docs/software_campus.png" width="200"/>
-  <img src="docs/BMBF_sponsored_by.jpg" width="250"/>
-</p>
